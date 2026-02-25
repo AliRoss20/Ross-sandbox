@@ -16,9 +16,10 @@ section {
   border-bottom: 1px solid gray;
 }
 
-p {
-  font-size: 1.25rem;
+.intro {
+  font-size: 3rem !important;
+  color: aquamarine;
 }
-.p1 {
-  font-size: 2.5rem;
+.control {
+  font-size: 1.25rem;
 }
